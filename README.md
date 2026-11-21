@@ -55,9 +55,9 @@
 ---
 
 ## 🔗 Links Úteis
-* 🌐 **Demo Online:** [Acesse o Portfólio](https://SEU-PROJETO.vercel.app)
-  > 💻 **Descrição:** Site publicado em produção na Vercel. *(Atualize com o link gerado no deploy.)*
-* 🎨 **Protótipos (Figma):** [Wireframes das páginas](https://www.figma.com/SEU-ARQUIVO)
+* 🌐 **Demo Online:** [Acesse o Portfólio](https://portfolio-game-8dqisd3vx-giovanafariaa.vercel.app)
+  > 💻 **Descrição:** Site publicado em produção na Vercel. 
+* 🎨 **Protótipos (Figma):** [Wireframes das páginas](https://www.figma.com/design/L8Jfg1Fm4TWv40w91zUevG/Untitled?node-id=2-2&p=f&t=4MYy4pIcCaZXzSTE-0)
   > 🖌️ **Descrição:** Wireframes de média fidelidade das quatro páginas.
 * 📁 **Repositório:** [GitHub](https://github.com/giovanafariaa/portfolio-game)
   > 📚 **Descrição:** Código-fonte completo do projeto.
@@ -244,25 +244,6 @@ Cada `git push` na branch principal gera um novo deploy automaticamente.
         ├── Experience.jsx # 🎯 Experiências profissionais.
         └── Contact.jsx    # 📨 Ícones de contato e formulário.
 ```
-
----
-
-## 🎥 Demonstração
-
-### 🌐 Aplicação Web
-
-| Tela | Captura de Tela |
-| :---: | :---: |
-| **Sobre mim** | **Projetos (linha do tempo)** |
-| *Sua imagem aqui* | *Sua imagem aqui* |
-| **Experiências** | **Contato** |
-| *Sua imagem aqui* | *Sua imagem aqui* |
-
-### 📱 Versão responsiva (celular)
-
-| Menu aberto | Projetos |
-| :---: | :---: |
-| *Sua imagem aqui* | *Sua imagem aqui* |
 
 ---
 
